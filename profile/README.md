@@ -1,6 +1,8 @@
 # Seu Site Imobiliário
 Este projeto propõe o desenvolvimento de uma solução digital que possibilita a corretores de imóveis obterem um site personalizado no estilo de uma imobiliária, sem a necessidade de conhecimentos técnicos em programação ou design. A iniciativa surge da constatação da dificuldade que muitos profissionais autônomos enfrentam para manter uma presença digital profissional, organizada e constantemente atualizada.
 
+### [Link da documentação](https://docs.google.com/document/d/1PSLC9uUKgRpQ3mUtwSaQ5zYgQsWCxJY7/edit?usp=sharing&ouid=111145350011883491338&rtpof=true&sd=true)
+
 ### Tecnologias
 
 - Containerização: Docker e Docker Compose
