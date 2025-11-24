@@ -1,12 +1,2 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# Seu Site Imobiliário
+Este projeto propõe o desenvolvimento de uma solução digital que possibilita a corretores de imóveis obterem um site personalizado no estilo de uma imobiliária, sem a necessidade de conhecimentos técnicos em programação ou design. A iniciativa surge da constatação da dificuldade que muitos profissionais autônomos enfrentam para manter uma presença digital profissional, organizada e constantemente atualizada.
