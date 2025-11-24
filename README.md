@@ -1,1 +1,2 @@
-# .github
+# Seu Site Imobiliário
+Este projeto propõe o desenvolvimento de uma solução digital que possibilita a corretores de imóveis obterem um site personalizado no estilo de uma imobiliária, sem a necessidade de conhecimentos técnicos em programação ou design. A iniciativa surge da constatação da dificuldade que muitos profissionais autônomos enfrentam para manter uma presença digital profissional, organizada e constantemente atualizada.
